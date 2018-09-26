@@ -1,3 +1,5 @@
+# unscape-json-recursively
+
 > Unescapes JSON recursively
 
 # Install
